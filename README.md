@@ -35,3 +35,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/itzsamm838-afk/task-crud-api.git
 cd task-crud-api
+```
+## Swagger Screenshot
+
+![Swagger UI](screenshots/swagger.png)
